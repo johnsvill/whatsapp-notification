@@ -1,0 +1,10 @@
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\bin\Debug\SendWhatsAppNotification.exe.config
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\bin\Debug\SendWhatsAppNotification.exe
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\bin\Debug\SendWhatsAppNotification.pdb
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\obj\Debug\SendWhatsAppNotification.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\obj\Debug\SendWhatsAppNotification.Form1.resources
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\obj\Debug\SendWhatsAppNotification.Properties.Resources.resources
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\obj\Debug\SendWhatsAppNotification.csproj.GenerateResource.cache
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\obj\Debug\SendWhatsAppNotification.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\obj\Debug\SendWhatsAppNotification.exe
+C:\Users\Jonathan Villeda\Documents\PROYECTOS CLIENTES\ORWAL\SendWhatsAppNotification\obj\Debug\SendWhatsAppNotification.pdb
